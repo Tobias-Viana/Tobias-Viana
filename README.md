@@ -1,13 +1,16 @@
-
 ### I'm Tobias Viana
-🌟 Software Engineer | Tech Enthusiast  
-💻 Passionate about Biotechnology and nanorobotics   
+💻 Software Engineer | Tech Enthusiast  
+🧬 Passionate about Biotechnology and nanorobotics   
 🚀 Seeking to transform ideas into global impact
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tobiasviana._)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-viana-a18a0133b/)
 <a href="mailto:tobias.araujo@sou.inteli.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
+## 💻Linguagens e Tecnologias
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 📊Estatísticas
 <div>
 <img height="180em" src=https://github-readme-stats.vercel.app/api?username=Tobias-Viana&theme=midnight-purple>
 
