@@ -18,7 +18,7 @@
 <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobias-Viana&layout=compact&langs_count-16&theme=midnight-purple" target="_blank">
 </div>
 
-![Snake animation](https://github.com/Tobias-Viana/Tobias-Viana/blob/output/github-contribution-grid-snake.svg)
+[![Snake animation](https://github.com/Tobias-Viana/Tobias-Viana/blob/output/github-contribution-grid-snake.svg)
 
 
 
