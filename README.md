@@ -1,7 +1,7 @@
 
 ### I'm Tobias Viana
 💻 Software Engineer | Tech Enthusiast  
-🧬 Passionate about quantum physics and nanorobotics   
+🌌 Passionate about quantum physics and nanorobotics   
 🚀 Seeking to transform ideas into global impact
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tobiasviana._)
