@@ -17,7 +17,6 @@ Currently focused on:
 - ☁️ Cloud Computing and Data Engineering
 - 📊 Recommender Systems & Predictive Models
 - 🧠 Automation and AI Agents
-- 🌐 Full Stack Development
 - 🔬 Innovation, Quantum Physics and Emerging Technologies
 
 I enjoy transforming complex ideas into practical digital products with real-world impact.
@@ -30,11 +29,11 @@ I enjoy transforming complex ideas into practical digital products with real-wor
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,sql" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,sql" />
 
 ### Front-End
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,figma" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,figma" />
 
 ### Back-End
 
@@ -42,7 +41,7 @@ I enjoy transforming complex ideas into practical digital products with real-wor
 
 ### Data Science & AI
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=pytorch" />
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -54,19 +53,7 @@ I enjoy transforming complex ideas into practical digital products with real-wor
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tobias-Viana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1E90FF&icon_color=1E90FF&text_color=FFFFFF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobias-Viana&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1E90FF&text_color=FFFFFF"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
 </div>
 
