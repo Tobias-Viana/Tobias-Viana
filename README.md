@@ -22,7 +22,6 @@ My journey spans the full product lifecycle — from problem scoping and archite
 - 📊 **Data Science** — exploratory analysis, feature engineering, actionable insights
 - ☁️ **Cloud & DevOps** — AWS, Docker, deploy pipelines, cloud-native architecture
 - ⚙️ **Automation** — RPA, API integrations, workflow optimization
-- 🌐 **Full-Stack Development** — web platforms, REST APIs, databases, auth systems
 
 > Projects in partnership with companies across healthcare, gaming, and enterprise sectors — applying tech to challenges that matter.
 
@@ -45,7 +44,7 @@ My journey spans the full product lifecycle — from problem scoping and archite
 ---
 
 ### ⚙️ Back-End
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,spring,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
 ---
 
@@ -66,18 +65,7 @@ My journey spans the full product lifecycle — from problem scoping and archite
 ---
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tobias-Viana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1E90FF&icon_color=1E90FF&text_color=FFFFFF&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobias-Viana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1E90FF&text_color=FFFFFF"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 
 </div>
 
