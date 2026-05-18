@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm **Tobias Viana**, a Software Engineering student at **Inteli** building intelligent and scalable digital solutions that solve real-world problems.
 
@@ -27,28 +27,28 @@ My journey spans the full product lifecycle — from problem scoping and archite
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### ⌨️ Languages
+### Languages
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java&theme=dark" />
 <br/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 ---
 
-### 🎨 Front-End
+### Front-End
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,figma&theme=dark" />
 
 ---
 
-### ⚙️ Back-End
+### Back-End
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
 ---
 
-### 🤖 Data Science & AI
+### Data Science & AI
 <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
 <br/><br/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -59,19 +59,19 @@ My journey spans the full product lifecycle — from problem scoping and archite
 
 ---
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux&theme=dark" />
 
 ---
 
-### 🗄️ Databases
+### Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## Contribution Streak
 
 <div align="center">
 
@@ -81,7 +81,7 @@ My journey spans the full product lifecycle — from problem scoping and archite
 
 ---
 
-## 🌎 Let's Connect
+## Let's Connect
 
 <div align="center">
 
